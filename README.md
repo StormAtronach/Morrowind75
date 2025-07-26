@@ -19,8 +19,10 @@ What it includes:
 # Requirements
 A potato PC should run it with no issues
 
+If you are still 
+
 # Installation
-Standard Wabbajack installation.
+Standard Wabbajack installation. On a first start, you may want to open MGE XE from the MO2 dropdown to adjust your personal preferences such as resolution.
 
 # Important mods you should know about
 I have included a lot of Merlord's stuff:
