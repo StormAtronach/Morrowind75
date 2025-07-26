@@ -6,7 +6,7 @@ This is a modlist based on very simple rules:
 - Only 75 mods
 - Maximum quality of life and performance
 - No visual overhaul
-- No mods with dependencies where possible
+- No mods that will require a ton of patches
 
 All the starting setup (MGE XE, MWSE, Morrowind Code Patch) is already done.
 
