@@ -58,4 +58,6 @@ When you first start the game with Wares enabled, there will be three errors. Ju
 
 This is my first Wabbajack modlist. I have done everything as best as I could, but feel free to contact me if you find a bug or something to be corrected. Thanks for your help!
 
+And special thanks to S3ctor for the amazing banner :D
+
 # Have Fun!
