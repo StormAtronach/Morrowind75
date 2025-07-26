@@ -28,6 +28,8 @@ If you are still facing performance issues, you can:
 # Installation
 Standard Wabbajack installation. On a first start, you may want to open MGE XE from the MO2 dropdown to adjust your personal preferences such as resolution.
 
+The root folder contains the executables, including the MWSEUpdate.exe. It is a good idea to run it regularly to keep MWSE updated to its latest version.
+
 # Important mods you should know about
 I have included a lot of Merlord's stuff:
 - Ashfall (Use alt+click to open backpacks without unequipping them. You can change this in Ashfall MCM if you prefer another combination)
