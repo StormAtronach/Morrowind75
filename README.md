@@ -42,6 +42,8 @@ Magicka of the Third Era is a "balancing" mod for magic which I think is cool. I
 Disable everything under the Immersion and Cool Stuff, Alternate Starts, and Magic separators in MO2. Run TES3Merge from the MO2 executable dropdown, and you are ready to go.
 
 # Other stuff
+When you first start the game with Wares enabled, there will be three errors. Just click "ok", they are harmless. These should go away in a future version of Wares.
+
 This is my first Wabbajack modlist. I have done everything as best as I could, but feel free to contact me if you find a bug or something to be corrected. Thanks for your help!
 
 # Have Fun!
