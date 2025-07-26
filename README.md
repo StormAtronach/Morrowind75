@@ -17,6 +17,9 @@ What it includes:
 - Latest MGE XE developer release with shared memory (no more out of memory issues!)
 - A ton of quality of life mods
 
+What it could include:
+- Everything and anything you want to throw on top of this. My only goal was only to make a basic modlist that you, dearest gentle reader, can expand upon as you like. Feel free to experiment :)
+
 # Requirements
 A potato PC should run it with no issues
 
