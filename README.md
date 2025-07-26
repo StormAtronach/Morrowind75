@@ -13,6 +13,7 @@ All the starting setup (MGE XE, MWSE, Morrowind Code Patch) is already done.
 What it includes:
 - Basic core mods: Tamriel Data, OAAB Data, and Addendum to Tamrielic Lore Data
 - Addons: Graphic herbalism, Patch for Purists, UI Expansion
+- Immersion: Ashfall, Joy of Painting, Ulimate Fishing, and more!
 - Latest MGE XE developer release with shared memory (no more out of memory issues!)
 - A ton of quality of life mods
 
