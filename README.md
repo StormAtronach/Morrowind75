@@ -19,7 +19,11 @@ What it includes:
 # Requirements
 A potato PC should run it with no issues
 
-If you are still 
+If you are still facing performance issues, you can:
+- disable antialiasing
+- Disable dynamic solar shadows and per-pixel lighting shader in MGE XE.
+- If this is still not enough, disable all reflections.
+- And if that is still not enough, disable distant land entirely.
 
 # Installation
 Standard Wabbajack installation. On a first start, you may want to open MGE XE from the MO2 dropdown to adjust your personal preferences such as resolution.
