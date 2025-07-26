@@ -21,7 +21,7 @@ What it includes:
 A potato PC should run it with no issues
 
 If you are still facing performance issues, you can:
-- disable antialiasing
+- Disable antialiasing.
 - Disable dynamic solar shadows and per-pixel lighting shader in MGE XE.
 - If this is still not enough, disable all reflections.
 - And if that is still not enough, disable distant land entirely.
