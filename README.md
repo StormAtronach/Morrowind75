@@ -41,7 +41,7 @@ I have included a lot of Merlord's stuff:
 
 Character leveling is done in the background by MULE. If you prefer vanilla minmaxing, you can disable MULE.
 
-Chargen Scenarios allows you to choose non-vanilla starts. If you prefer the vanilla one, you can disable this mod.
+Chargen Scenarios allows you to choose non-vanilla starts. If you prefer the vanilla one starting with Jiub in the boat, you can disable this mod.
 
 Sophisticated Save system is configured to auto-save every 10 minutes. You can change this in the MCM
 
