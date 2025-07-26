@@ -20,20 +20,12 @@
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Dylan-Perry/dp-modlists/main/wj_thumbnail-web.webp",
-      "readme": "https://keizaal.github.io/Keizaal/",
-      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
-      "machineURL": "JohnsSkyrimMakeover",
-      "discordURL": "https://discord.gg/wabbajack"
+      "readme": "https://github.com/StormAtronach/Morrowind75/blob/main/README.md",
+      "download": "Morrowind75.wabbajack_2ec9a29f-a727-46ac-ba52-e2e6c80296e7",
+      "machineURL": "Morrowind75",
+      "discordURL": "https://discord.gg/yqxYKXDE"
     },
-    "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "e1+K7eJbDJw=",
-      "Size": 0,
-      "NumberOfArchives": 14,
-      "SizeOfArchives": 135206078,
-      "NumberOfInstalledFiles": 1311,
-      "SizeOfInstalledFiles": 336453775
-    },
+    "download_metadata": {"Hash":"5P7XZxsC5qY=","Size":222264489,"NumberOfArchives":7294,"SizeOfArchives":2673852099,"NumberOfInstalledFiles":71306,"SizeOfInstalledFiles":5571561019,"TotalSize":8245413118},
     "version": "1.0.0"
   }
 ]
