@@ -45,7 +45,7 @@ Chargen Scenarios allows you to choose non-vanilla starts. If you prefer the van
 
 Sophisticated Save system is configured to auto-save every 10 minutes. You can change this in the MCM
 
-Magicka of the Third Era is a "balancing" mod for magic which I think is cool. I have included a custom version which allows you to have a vanilla-ish experience with cast chances. Feel free to configure in the MCM if you prefer otherwise.
+Magicka of the Third Era is a "balancing" mod for magic which I think is cool. I have included a custom version which allows you to have a vanilla-ish experience with ajusted cast chances. In the MCM, choose the "Hybrid" option in the dropdown menu.
 
 # If you want a "purist" vanilla experience
 Disable everything under the Immersion and Cool Stuff, Alternate Starts, and Magic separators in MO2. Run TES3Merge from the MO2 executable dropdown, and you are ready to go.
