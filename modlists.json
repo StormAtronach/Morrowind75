@@ -11,16 +11,15 @@
     "tags": [
       "SFW",
       "Steam",
-      "Vanilla+",
-      "MWSE"
+      "Vanilla+"
     ],
     "nsfw": false,
     "image_contains_title": false,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://github.com/StormAtronach/Morrowind75/blob/main/SA.jpg",
-      "readme": "https://github.com/StormAtronach/Morrowind75/blob/main/README.md",
+      "image": "https://github.com/StormAtronach/Morrowind75/raw/eb09b723bd20afe81614e95328d7e94bdcd87320/SA.jpg",
+      "readme": "https://github.com/StormAtronach/Morrowind75/raw/eb09b723bd20afe81614e95328d7e94bdcd87320/README.md",
       "download": "https://authored-files.wabbajack.org/Morrowind75.wabbajack_2ec9a29f-a727-46ac-ba52-e2e6c80296e7",
       "machineURL": "Morrowind75",
       "discordURL": "https://discord.gg/yqxYKXDE"
