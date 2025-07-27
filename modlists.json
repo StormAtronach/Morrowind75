@@ -20,12 +20,12 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/StormAtronach/Morrowind75/main/NewLogo.webp",
       "readme": "https://raw.githubusercontent.com/StormAtronach/Morrowind75/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Morrowind75.wabbajack_98a7f962-ca63-4f97-af45-3a996a7c8d69",
+      "download": "https://authored-files.wabbajack.org/Morrowind75.wabbajack_5ef42188-31ee-43eb-87be-c31b02e13a9c",
       "machineURL": "Morrowind75",
       "discordURL": "https://discord.gg/yqxYKXDE"
     },
     "download_metadata": {"Hash":"5P7XZxsC5qY=","Size":222264489,"NumberOfArchives":7294,"SizeOfArchives":2673852099,"NumberOfInstalledFiles":71306,"SizeOfInstalledFiles":5571561019,"TotalSize":8245413118},
-    "version": "1.0.1"
+    "version": "1.0.2"
   }
 ]
 
