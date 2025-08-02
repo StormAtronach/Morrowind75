@@ -33,7 +33,11 @@ If you are still facing performance issues, you can:
 - And if that is still not enough, disable distant land entirely.
 
 # Installation
-Standard Wabbajack installation. On a first start, you may want to open MGE XE from the MO2 dropdown to adjust your personal preferences such as resolution.
+Standard Wabbajack installation. It is a good idea to have Morrowind installed outside protected system folders such as program files. You can set up your steam library on C: or your preferred drive. 
+
+You should run Morrowind.exe at least once to reach the title page, and then exit.
+
+On a first start, you may want to open MGE XE from the MO2 dropdown to adjust your personal preferences such as resolution.
 
 The root folder contains the executables, including the MWSEUpdate.exe. It is a good idea to run it regularly to keep MWSE updated to its latest version.
 
