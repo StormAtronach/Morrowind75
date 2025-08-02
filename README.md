@@ -1,6 +1,9 @@
 # Morrowind75
 A starter Morrowind modlist including Tamriel Rebuilt to build upon.
 
+# Important note
+If Wabbajack errors due to missmatching Morrowind.ini during install, you can use the file under "releases" included in this page.
+
 # Introduction
 This is a modlist based on very simple rules:
 - Only 75 mods
