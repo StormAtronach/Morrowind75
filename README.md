@@ -2,7 +2,10 @@
 A starter Morrowind modlist including Tamriel Rebuilt to build upon.
 
 # Important note
-If Wabbajack errors due to missmatching Morrowind.ini during install, you can use the file under "releases" included in this page. Apparently, some version of the ini come with subtitles set to on (1) and others with 0, as in the version I used to compile the list. Thanks to Crusader for figuring this one out!
+If Wabbajack errors due to missmatching Morrowind.ini during install, you can use the file under "releases" included in this page:
+https://github.com/StormAtronach/Morrowind75 
+
+Apparently, some version of the ini come with subtitles set to on (1) and others with 0, as in the version I used to compile the list. Thanks to Crusader for figuring this one out!
 
 # Introduction
 This is a modlist based on very simple rules:
